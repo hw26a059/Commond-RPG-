@@ -1,0 +1,6 @@
+{
+  "name": "Game Specification Folder",
+  "description": "仕様書作成用フォルダおよびドキュメント",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
